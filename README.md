@@ -1,2 +1,2 @@
-# AIChatApp
-A demo builds AI Chat (end to end)
+# ChatApp
+A demo shows an integration format builds a Chat application (end to end)
